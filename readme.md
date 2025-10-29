@@ -4,6 +4,9 @@ A simple **Solidity smart contract** that enables manufacturers to register prod
 
 ---
 
+<img width="1581" height="783" alt="image" src="https://github.com/user-attachments/assets/bca8b87f-3e70-4d1a-a3eb-5c051b06ffde" />
+
+
 ## 📘 Project Description  
 
 The **Smart Warranty Registration & Validation System** is a blockchain-based solution for securely recording and verifying product warranties.  
@@ -43,3 +46,7 @@ This system ensures that all warranty records are **tamper-proof**, **publicly v
 
 ```solidity
 //paste your code
+
+
+
+
